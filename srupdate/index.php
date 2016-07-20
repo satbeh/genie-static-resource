@@ -1,6 +1,8 @@
 <?php
-	// include the view template
-	//include_once 'view/index.php';
+	error_reporting(E_ALL);
+	ini_set("display_errors", 1);
 	
-	echo "test";
+	// include the view template
+	include_once 'view/index.php';
+	
 ?>
