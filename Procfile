@@ -1,2 +1,2 @@
-web: php -S 0.0.0.0:$PORT srupdate
+web: php -S 0.0.0.0:$PORT
 
